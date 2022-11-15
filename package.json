@@ -6,13 +6,21 @@
     "test": "jest",
     "prepare": "husky install"
   },
-  "author": "",
+  "author": "srinivas",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "jest": "^29.3.1"
   },
   "devDependencies": {
     "husky": "^8.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Srinivas7995150038/l4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Srinivas7995150038/l4/issues"
+  },
+  "homepage": "https://github.com/Srinivas7995150038/l4#readme",
+  "description": ""
 }
