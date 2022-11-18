@@ -9,9 +9,7 @@ describe("Todo test cases", () => {
       {
         title: "Complete assignment",
         completed: false,
-        dueDate: new Date(today.getTime() - 1 * oneDay).toLocaleDateString(
-          "en-CA"
-        ),
+        dueDate: new Date(today.getTime() - 1 * oneDay).toLocaleDateString("en-CA"),
       },
       {
         title: "Go for shopping",
